@@ -1,3 +1,8 @@
+
+# Linux assignments
+
+## 1.Exercise File
+
 ```bash
 mkdir wipcamp12
 cd wipcamp12
